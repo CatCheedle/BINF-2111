@@ -1,6 +1,6 @@
 # BINF-2111
 
-Catherine Cheedle
-\nFall 2023
-\nComputer Science
-\nSenior
+My name is Catherine Cheedle
+Fall 2023
+I am a Computer Science major
+I am a Senior
